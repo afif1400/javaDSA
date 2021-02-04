@@ -16,7 +16,7 @@ public class maxCircularSubarrayEfficient {
   }
   public static void main(String[] args){
     int[] arr = {5,-2,3,4};
-    int res = arr[0];
+    // int res = arr[0];
     int kadanesMax = kadanesSum(arr);
     if(kadanesMax < 0){
       System.out.println(kadanesMax);
