@@ -16,7 +16,7 @@ public class primeFactors {
 
   }
   public static void main(String[] args){
-    int num = 450;
+    int num = 24;
 
     primefactors(num);
   }
