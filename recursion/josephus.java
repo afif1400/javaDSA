@@ -1,5 +1,7 @@
 package recursion;
 
+
+// T(n) = T(n-1) + c => theta(n)
 public class josephus {
   static int jos(int n,int k){
     if(n == 1){
