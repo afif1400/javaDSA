@@ -1,4 +1,7 @@
 public class fizzbuzz {
+  //* this is a solution from arnav(coding blocks) which he later said that he maid this to grab 
+  //* attention of how people are posting some information videos which are or not to be technically 
+  //* true
   public static void main(String[] args){
     int c3 = 0;
     int c5 = 0;
