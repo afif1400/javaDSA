@@ -6,11 +6,9 @@ public class UnionUnsortedArray {
 
   public static int unionCount(int[] a, int[] b) {
     HashSet<Integer> h = new HashSet<Integer>();
-
     for (int i : a) {
       h.add(i);
     }
-
     for (int j : b) {
       h.add(j);
     }
